@@ -1966,15 +1966,15 @@
     }
 
     .why-choose-three::before {
-        background-color: var(--elitecons-base);
+        background-color: var(--associeds-base);
     }
 
     .why-choose-three__contact-list li .icon>span {
-        color: rgba(var(--elitecons-white-rgb), 1);
+        color: rgba(var(--associeds-white-rgb), 1);
     }
 
     .why-choose-three__contact-list li .content>p>a:hover {
-        color: var(--elitecons-black);
+        color: var(--associeds-black);
     }
 
     .footer-widget-three__link {
@@ -3199,7 +3199,7 @@
 
 
     .main-menu-six .mobile-nav__toggler:hover {
-        color: var(--elitecons-white);
+        color: var(--associeds-white);
     }
 
 
@@ -3232,7 +3232,7 @@
 
 
     .main-menu-six .mobile-nav__toggler:hover {
-        color: var(--elitecons-white);
+        color: var(--associeds-white);
     }
 
 
@@ -3322,7 +3322,7 @@
     }
 
     .main-menu-six .mobile-nav__toggler:hover {
-        color: var(--elitecons-white);
+        color: var(--associeds-white);
     }
 
 
