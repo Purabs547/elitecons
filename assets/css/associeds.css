@@ -422,7 +422,7 @@ html.lenis {
 }
 
 .handle-preloader .animation-preloader .txt-loading .letters-loading:before{
-  animation: letters-loading 4s infinite;
+  animation: letters-loading 1s infinite;
   content: attr(data-text-preloader);
   left: 0;
   opacity: 0;
@@ -451,6 +451,12 @@ html.lenis {
 .handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(6):before { animation-delay: 1s;}
 .handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(7):before { animation-delay: 1.2s;}
 .handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(8):before { animation-delay: 1.4s;}
+.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(9):before { animation-delay: 1.6s;}
+.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(10):before { animation-delay: 1.8s;}
+.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(11):before { animation-delay: 2.0s;}
+.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(12):before { animation-delay: 2.2s;}
+.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(13):before { animation-delay: 2.4s;}
+.handle-preloader .animation-preloader .txt-loading .letters-loading:nth-child(14):before { animation-delay: 2.6s;}
 .handle-preloader .loader-section {
   background-color: #ffffff;
   height: 100%;
